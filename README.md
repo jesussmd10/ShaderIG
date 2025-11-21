@@ -87,8 +87,7 @@ El shader produce un patrón generativo de menos de 512 bytes, animado y visualm
 ![Preview](./CapturaShaderIG.png)
 
 
-## Créditos y Inspiraciones
-- [The Book of Shaders](https://thebookofshaders.com/) - Capítulos sobre Formas y Color
+
 
 ## Referencias
 1. [The Book of Shaders - Shapes](https://thebookofshaders.com/07/)
